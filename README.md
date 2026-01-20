@@ -14,5 +14,9 @@
 - ###  📂Projects
 - 🏦 **Bank Analytics Project**
 - Analysis of loan default risk using excel and Power BI
+- ## Mini Sales Dashboard Project
+- Sales Performance ,identifying top products and customer segments.
 - 🛒 **E-commerce Sales Analysis**
 - sales performance and customer insights using Excel power BI and Tableau
+- Currently working on this--
+  
